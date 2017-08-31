@@ -564,7 +564,7 @@ transition: 0.2s;
 
 
 #carreras_general{
-  background-image: url(./img/dibujo.JPG);
+  background-image: url(./img/dibujo.jpg);
   background-attachment: fixed;
   background-size: cover;
   height: 100vh;

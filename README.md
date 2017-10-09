@@ -1,2 +1,2 @@
-# README PRUERBA
-asdfghjkl
+# Instituto Emiliani Somascos
+Autor: Mynor Eduardo Peñate VeLASQUEZ
